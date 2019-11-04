@@ -46,7 +46,9 @@ six_digit_seg = { seg_left , seg_right, seg_left , seg_right, seg_left , seg_rig
 ![](https://github.com/MayBMore/Practice06/blob/master/waveform.PNG)
 ### **FPGA
 동작 사진 (3 개 일반 , Q1,
-
+![](https://github.com/MayBMore/Practice06/blob/master/KakaoTalk_20191104_185054394.jpg)
+![](https://github.com/MayBMore/Practice06/blob/master/KakaoTalk_20191104_185053366.jpg)
+![](https://github.com/MayBMore/Practice06/blob/master/KakaoTalk_20191104_185052355.jpg)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE0OTEzOTMxMjVdfQ==
 -->
